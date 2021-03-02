@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alesly)](https://github.com/Alesly/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alesly?theme=tokyonight)](https://github.com/Alesly/github-readme-stats)
 
 
 <!--
